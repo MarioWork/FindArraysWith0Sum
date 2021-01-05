@@ -1,0 +1,16 @@
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\bin\Debug\net5.0\FindArraysWith0Sum.exe
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\bin\Debug\net5.0\FindArraysWith0Sum.deps.json
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\bin\Debug\net5.0\FindArraysWith0Sum.runtimeconfig.json
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\bin\Debug\net5.0\FindArraysWith0Sum.runtimeconfig.dev.json
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\bin\Debug\net5.0\FindArraysWith0Sum.dll
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\bin\Debug\net5.0\ref\FindArraysWith0Sum.dll
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\bin\Debug\net5.0\FindArraysWith0Sum.pdb
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\obj\Debug\net5.0\FindArraysWith0Sum.csprojAssemblyReference.cache
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\obj\Debug\net5.0\FindArraysWith0Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\obj\Debug\net5.0\FindArraysWith0Sum.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\obj\Debug\net5.0\FindArraysWith0Sum.AssemblyInfo.cs
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\obj\Debug\net5.0\FindArraysWith0Sum.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\obj\Debug\net5.0\FindArraysWith0Sum.dll
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\obj\Debug\net5.0\ref\FindArraysWith0Sum.dll
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\obj\Debug\net5.0\FindArraysWith0Sum.pdb
+C:\Users\filip\Documents\GitHub\FindArraysWith0Sum\obj\Debug\net5.0\FindArraysWith0Sum.genruntimeconfig.cache
